@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Liam @lodrixoll
+### 👋 Hey, I’m Liam @lodrixoll
 
 **Currently** 
 - 👀 working as a full stack developer at a B2B SaaS company [TrustLoop](https://trustloop.co)
