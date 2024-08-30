@@ -1,7 +1,7 @@
 ### 👋 Hey, I’m Liam @lodrixoll
 
 **Currently** 
-- 👜 CTO @ [SimplyTC](https://simplytc.com/)
+- 🏡 CTO @ [SimplyTC](https://simplytc.com/)
 - 🏗️ building stuff
 - 🏆 trying to win my first hackathon
 
